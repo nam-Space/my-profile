@@ -142,9 +142,18 @@ git clone https://github.com/nam-Space/my-profile.git
 
 ## Giao diện chính
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ae659af-886e-4833-aae5-cda9a123174e" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e2c4837-e05d-45e7-85d7-d8b4c0ad1487" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f93db0c1-2909-4696-aa53-70a1a0b71e72" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3d278128-83c5-43e3-8c00-59cdf8c4b450" />
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3ff4c273-62ad-4077-a2b2-d31ba9fc111c" />
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e9292f0d-5f78-4460-a01f-49a1c50f72b2" />
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/61e4c9c3-2cbc-4b6f-8c2a-5025aede9a7a" />
 
 ---
 
